@@ -68,3 +68,5 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+Detail : https://daffaaflah6.blogspot.com/2021/06/simits-codeigniter.html
